@@ -1,3 +1,3 @@
-# test-repository
+# My very first repo
 
-This is a second example
+Zyga is the best coder on the planet !
